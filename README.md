@@ -13,4 +13,9 @@ First, Principal Component Analysis is done on both the datasets and then Random
 
 # Results
 
-The red wine dataset gives an accuracy of over 91% with RFC having n_estimators=700. The white wine data set performs slightly better with an accuarcy of over 94% using RFC with n_estimators=700.
+The red wine dataset gives an accuracy of 91.45833333333333% with RFC having n_estimators=700. The white wine data set performs slightly better with an accuracy of 94.55782312925171% using RFC with n_estimators=700.
+
+# Execution
+
+This script requires python version 3.6. I have tested the script on Windows 10 with Python 3.6.5 and Anaconda Distribution.
+To execute the program to train based on the dataset, execute the python script Wine_Quality_Classifier.py
